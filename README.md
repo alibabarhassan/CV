@@ -12,19 +12,27 @@ Summary
 
 ### **Technical Skills**
 
-1. **Languages :** Swift, Objective-C, PHP, HTML, CSS, Javascript and C#
-2. **Databases :** SQLite 3, CoreData, MySQL
-3. **Development Software :** XCode
-4. **Integrations :** ArKit, Socket.io ,Facebook, Twitter, Twillio
-5. **Platforms :**  iOS
+1. **Languages :** Swift, Objective-C, Reactjs, Vuejs ,PHP, HTML, CSS, Javascript and C#
+2. **Databases :** SQLite 3, Realm, MySQL
+3. **Development Software :** XCode, VSCode
+4. **Integrations :** ArKit, Socket.io ,Facebook, Twitter, Twillio, Vuexy
+5. **Platforms :**  iOS, Web, React-native
 6. **Cloud Services :** Firebase, Firestore
 7. **Source Control :** GitHub, SourceTree, Tower
 8. **Project Management Tools :** JIRA, Monday.com
 
 ### **Work Experience / Career History**
 
+### [Software Engineer at Energetiksolutions Pte Ltd](http://narsun.pk/) : April 2019 – Present
 
-### [Sr. iOS Engineer at Narsun](http://narsun.pk/) : Nov 2017 – Currently Working
+* **MuviNow** – Muvi now is a online movies streaming application. Users can rent single or collection of movies using in app purchases for limited or unlimited time. Users can watch movies on mobile app or on tv via chromecast.
+https://apps.apple.com/us/app/muvinow/id1319816005
+
+* **Talento Mobile App** – Talento Mobile application is Manager Employee application where they can manage their leave requests and other HR related activities. This application is built on react native and supports multiple plateforms
+
+* **Talento Web App** – Talento Web App manages HR related activities and controls the content of Talento Mobile App. HR can control employees leaves requests, dynamic profiles and forms. This project is developed using vuejs.
+
+### [Sr. iOS Engineer at Narsun Pvt Ltd](http://narsun.pk/) : Nov 2017 – March 2019
 
 * **LureAR** – LureAR is a dating app that shows users on AR mode. Users can request other users in AR Camera and chat with them that is based on cloud firestore. Users can leave notes at locations and other users can come and read the notes. 
 
