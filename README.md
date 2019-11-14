@@ -23,7 +23,7 @@ Summary
 
 ### **Work Experience / Career History**
 
-### [Software Engineer at Energetiksolutions Pte Ltd](http://narsun.pk/) : April 2019 – Present
+### [Software Engineer at Energetik Solutions Pte Ltd](http://narsun.pk/) : April 2019 – Present
 
 * **MuviNow** – Muvi now is a online movies streaming application. Users can rent single or collection of movies using in app purchases for limited or unlimited time. Users can watch movies on mobile app or on tv via chromecast.
 https://apps.apple.com/us/app/muvinow/id1319816005
