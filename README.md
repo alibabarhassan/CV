@@ -12,11 +12,11 @@ Summary
 
 ### **Technical Skills**
 
-1. **Languages :** Swift, Objective-C, React Native,Reactjs, Vuejs ,PHP, HTML, CSS, Javascript and C#
+1. **Languages :** Swift, Objective-C, React Native, Reactjs, Vuejs ,PHP, HTML, CSS, Javascript
 2. **Databases :** SQLite 3, Realm, MySQL
 3. **Development Software :** XCode, VSCode
 4. **Integrations :** ArKit, Socket.io ,Facebook, Twitter, Twillio, Vuexy
-5. **Platforms :**  iOS, Web, React-native
+5. **Platforms :**  iOS, Web, Multiplateform (React-native)
 6. **Cloud Services :** Firebase, Firestore
 7. **Source Control :** GitHub, SourceTree, Tower
 8. **Project Management Tools :** JIRA, Monday.com
