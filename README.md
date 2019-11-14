@@ -1,4 +1,4 @@
-### **Ali Babar Hassan** Software Engineer – iOS, Swift, Objective-C  
+### **Ali Babar Hassan** Software Engineer – iOS, Swift, Objective-C, ReactJS, React Native, Vuejs  
 <alibabarhassamn@gmail.com>      
       +923217711167    
 17 A Block 
@@ -12,7 +12,7 @@ Summary
 
 ### **Technical Skills**
 
-1. **Languages :** Swift, Objective-C, Reactjs, Vuejs ,PHP, HTML, CSS, Javascript and C#
+1. **Languages :** Swift, Objective-C, React Native,Reactjs, Vuejs ,PHP, HTML, CSS, Javascript and C#
 2. **Databases :** SQLite 3, Realm, MySQL
 3. **Development Software :** XCode, VSCode
 4. **Integrations :** ArKit, Socket.io ,Facebook, Twitter, Twillio, Vuexy
