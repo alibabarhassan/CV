@@ -53,7 +53,7 @@ https://apps.apple.com/us/app/muvinow/id1319816005
 
 * **Brides & You Magazine** – This is a Newsstand application specially designed for iPad with quite elegant and user-friendly design. Store kit integration for In App purchase of New Issues Development of Network Layer for downloading new issues. User Interface development.
 
-### [iOS Engineer at iLogiks]() : September 2014 – January 2017
+### [iOS Engineer at iLogiks](#) : September 2014 – January 2017
 
  **Explore Lake District Hotel** –  It is a web based application designed on PHP. It maintains the hotels pricing and other details from expedia.com through api and uses cron jobs to add or update new hotels
 [http://explorelakedistrict.co.uk]()
