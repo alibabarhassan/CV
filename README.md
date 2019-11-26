@@ -44,7 +44,7 @@ https://apps.apple.com/us/app/muvinow/id1319816005
 [https://itunes.apple.com/us/app/zhiz/id1336432184?mt=8]()
 
 
-### [iOS Engineer at Xint Solutions](https://txlabz.com) : 2014 — 2017
+### [iOS Engineer at Xint Solutions](https://xintsolutions.com/) : 2014 — 2017
 
 * **Jalbujh** – Jalbujh uses BLE (Bluetooth Low Energy) to communicate with Jul Bujh Water Heater natural gas saving device. The App exclusively uses BLE to communicate with the hardware. Use this App to specify you water heating schedule which is passed to the device using BLE.
 [https://itunes.apple.com/us/app/jul-bujh/id953908591?mt=8]()
@@ -53,7 +53,7 @@ https://apps.apple.com/us/app/muvinow/id1319816005
 
 * **Brides & You Magazine** – This is a Newsstand application specially designed for iPad with quite elegant and user-friendly design. Store kit integration for In App purchase of New Issues Development of Network Layer for downloading new issues. User Interface development.
 
-### [iOS Engineer at iLogiks](http://trangolabs.com) : September 2014 – January 2017
+### [iOS Engineer at iLogiks]() : September 2014 – January 2017
 
  **Explore Lake District Hotel** –  It is a web based application designed on PHP. It maintains the hotels pricing and other details from expedia.com through api and uses cron jobs to add or update new hotels
 [http://explorelakedistrict.co.uk]()
