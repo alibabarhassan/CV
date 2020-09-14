@@ -15,7 +15,7 @@ Summary
 1. **Languages :** Swift, Objective-C, React Native, Reactjs, Vuejs ,PHP, HTML, CSS, Javascript
 2. **Databases :** SQLite 3, Realm, MySQL
 3. **Development Software :** XCode, VSCode
-4. **Integrations :** ArKit, Socket.io ,Facebook, Twitter, Twillio, Vuexy
+4. **Integrations :** Fairplay, ArKit, Socket.io ,Facebook, Twitter, Twillio, Vuexy
 5. **Platforms :**  iOS, Web, Multiplateform (React-native)
 6. **Cloud Services :** Firebase, Firestore
 7. **Source Control :** GitHub, SourceTree, Tower
@@ -23,9 +23,14 @@ Summary
 
 ### **Work Experience / Career History**
 
+### [Sr. Software Engineer at Tv2u](http://www.tv2u.com/) : December 2019 – Present
+
+* **Nexttv Africa** – Nexttv africa is streaming and sports application. It shows video streaming channels, movies and series. Also it contains a complete sports module based on football. It contains users fixtures, scores, players, stats and match highlights. It is a complete football experience.
+https://apps.apple.com/us/app/nexttv-africa/id1503002325
+
 ### [Software Engineer at HL Tech](https://www.hltech.io/) : April 2019 – Present
 
-* **MuviNow** – Muvi now is a online movies streaming application. Users can rent single or collection of movies using in app purchases for limited or unlimited time. Users can watch movies on mobile app or on tv via chromecast.
+* **MuviNow** – Muvi now is a online movies streaming application. Users can rent single or collection of movies using in app purchases for limited or unlimited time. Users can watch movies on mobile app or on tv via chromecast. It uses encrypted fairplay streams.
 https://apps.apple.com/us/app/muvinow/id1319816005
 
 * **Talento Mobile App** – Talento Mobile application is Manager Employee application where they can manage their leave requests and other HR related activities. This application is built on react native and supports multiple plateforms
