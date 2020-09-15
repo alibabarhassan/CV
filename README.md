@@ -1,14 +1,13 @@
 ### **Ali Babar Hassan** Software Engineer – iOS, Swift, Objective-C, ReactJS, React Native, Vuejs  
 <alibabarhassamn@gmail.com>      
       +923217711167    
-17 A Block 
-Rehmanpura Lahore  
+59 J-1 Johar Town Lahore  
 LinkedIn Profile:
 <https://www.linkedin.com/in/ali-babar-hassan-803456b1//>
 
 Summary
 
-> Results-oriented software developer professional with more than 4 years experience in iOS application development positions. I make it my goal to create mobile apps with a user in mind, creating applications with a useable user interface experience. I also understand the importance of creating highly readable and easily maintainable source code. I constantly strive to learn new technologies and look for ways to advance myself in this rapidly changing industry.
+> Results-oriented software developer professional with more than 6 years experience in iOS application development positions. I make it my goal to create mobile apps with a user in mind, creating applications with a useable user interface experience. I also understand the importance of creating highly readable and easily maintainable source code. I constantly strive to learn new technologies and look for ways to advance myself in this rapidly changing industry.
 
 ### **Technical Skills**
 
