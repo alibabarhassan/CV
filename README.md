@@ -22,12 +22,18 @@ Summary
 
 ### **Work Experience / Career History**
 
-### [Sr. Software Engineer at Tv2u](http://www.tv2u.com/) : December 2019 – Present
+### [Sr. Software Engineer at Edward Milton & Co](https://edwardmilton.com) : December 2020 - Present
+
+* **Wellyx** – Wellyx connects you to your Gym, Club or Salon. You can book classes, buy treatments, products & memberships. You can check payments made, and view invoices and bookings. 
+https://apps.apple.com/vg/app/wellyx/id1442088519
+
+
+* **Wellyx Staff** – Wellyx Staff App is primarily focused on Saloons and Gym’s staff. Staff can check his schedule, book class and services, manage shifts, mark attendance, view time sheets, manage class attendance, mange attendees against classes and services, get reminder based on class and services bookings and time base events and much more. This app is build using swift and SwiftUI. 
+
+### [Sr. Software Engineer at Tv2u](http://www.tv2u.com/) : April 2019 – December 2020
 
 * **Nexttv Africa** – Nexttv africa is streaming and sports application. It shows video streaming channels, movies and series. Also it contains a complete sports module based on football. It contains users fixtures, scores, players, stats and match highlights. It is a complete football experience.
 https://apps.apple.com/us/app/nexttv-africa/id1503002325
-
-### [Software Engineer at HL Tech](https://www.hltech.io/) : April 2019 – Present
 
 * **MuviNow** – Muvi now is a online movies streaming application. Users can rent single or collection of movies using in app purchases for limited or unlimited time. Users can watch movies on mobile app or on tv via chromecast. It uses encrypted fairplay streams.
 https://apps.apple.com/us/app/muvinow/id1319816005
