@@ -7,7 +7,7 @@ LinkedIn Profile:
 
 Summary
 
-> Results-oriented software developer professional with more than 6 years experience in iOS application development positions. I make it my goal to create mobile apps with a user in mind, creating applications with a useable user interface experience. I also understand the importance of creating highly readable and easily maintainable source code. I constantly strive to learn new technologies and look for ways to advance myself in this rapidly changing industry.
+> Results-oriented software developer professional with more than 7 years experience in iOS application development positions. I make it my goal to create mobile apps with a user in mind, creating applications with a useable user interface experience. I also understand the importance of creating highly readable and easily maintainable source code. I constantly strive to learn new technologies and look for ways to advance myself in this rapidly changing industry.
 
 ### **Technical Skills**
 
