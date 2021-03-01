@@ -1,10 +1,11 @@
 ### **Ali Babar Hassan** Software Engineer – iOS, Swift, Objective-C, Flutter, React Native, Vuejs  
 <alibabarhassan@gmail.com>      
       +923217711167    
-59 J-1 Johar Town Lahore  
+59 J-1 Johar Town Lahore
+
+StackOverFlow profile: <https://stackoverflow.com/users/3099377/babar/>
 LinkedIn Profile:
 <https://www.linkedin.com/in/ali-babar-hassan-803456b1//>
-StackOverFlow profile: <https://stackoverflow.com/users/3099377/babar/>
 
 Summary
 
