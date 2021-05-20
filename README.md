@@ -14,7 +14,7 @@ Summary
 
 ### **Technical Skills**
 
-1. **Languages :** Swift, Objective-C, Flutter,React Native, Reactjs, Vuejs ,PHP, HTML, CSS, Javascript
+1. **Languages :** Swift, SwiftUI, Objective-C, Flutter,React Native
 2. **Databases :** SQLite 3, Realm, MySQL
 3. **Development Software :** XCode, VSCode
 4. **Integrations :** Fairplay, ArKit, Socket.io ,Facebook, Twitter, Twillio, Vuexy
