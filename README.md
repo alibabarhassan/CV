@@ -17,7 +17,7 @@ Summary
 1. **Languages :** Swift, SwiftUI, Objective-C, Flutter,React Native
 2. **Databases :** SQLite 3, Realm, MySQL
 3. **Development Software :** XCode, VSCode
-4. **Integrations :** Fairplay, ArKit, Socket.io ,Facebook, Twitter, Twillio, Vuexy
+4. **Integrations :** Fairplay, ArKit, Socket.io ,Social, CircleCI, Fastlane,Twillio, Vuexy
 5. **Platforms :**  iOS, Web, Multiplateform (React-native, Flutter)
 6. **Cloud Services :** Firebase, Firestore, Amplify
 7. **Source Control :** Git bash, GitHub, SourceTree, Tower
