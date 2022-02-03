@@ -19,7 +19,7 @@ Summary
 3. **Development Software :** XCode, VSCode
 4. **Integrations :** Fairplay, ArKit, Socket.io ,Social, CircleCI, Fastlane,Twillio, Vuexy
 5. **Platforms :**  iOS, Web, Multiplateform (React-native, Flutter)
-6. **Cloud Services :** Firebase, Firestore, Amplify
+6. **Cloud Services :** Firebase, Firestore
 7. **Source Control :** Git bash, GitHub, SourceTree, Tower
 8. **Project Management Tools :** JIRA, Monday.com
 
