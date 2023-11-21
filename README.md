@@ -1,4 +1,4 @@
-### **Ali Babar Hassan** Software Engineer – iOS, Swift, Objective-C, Flutter, React Native, Vuejs  
+### **Ali Babar Hassan** Software Engineer – iOS, SwiftUI, Objective-C, Flutter, React Native, Vuejs  
 <alibabarhassan@gmail.com>      
       +923217711167    
 59 J-1 Johar Town Lahore
