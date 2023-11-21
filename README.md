@@ -25,7 +25,7 @@ Summary
 
 ### **Work Experience / Career History**
 
-### [Sr. Software Engineer at Edward Milton & Co](https://edwardmilton.com) : December 2020 - Present
+### [Sr. Software Engineer at Soft Steer](https://softsteer.com) : December 2020 - Present
 
 * **Wellyx** – Wellyx connects you to your Gym, Club or Salon. You can book classes, buy treatments, products & memberships. You can check payments made, and view invoices and bookings. This a complete fitness solution app. It involves following additional features
 
