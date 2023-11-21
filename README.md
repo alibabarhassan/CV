@@ -35,10 +35,10 @@ https://apps.apple.com/vg/app/wellyx/id1442088519
 
 This application has over 30 white labels. Some of them are listed below
 
-https://apps.apple.com/us/app/bromley-fitness/id1619068746
-https://apps.apple.com/us/app/meridian-fitness/id1463391944
-https://apps.apple.com/us/app/freedom-lifestyle-fitness/id1518586357
-https://apps.apple.com/us/app/stonebridge-boxing-club/id1615400016
+   1.https://apps.apple.com/us/app/bromley-fitness/id1619068746
+   2.https://apps.apple.com/us/app/meridian-fitness/id1463391944
+   3.https://apps.apple.com/us/app/freedom-lifestyle-fitness/id1518586357
+   4.https://apps.apple.com/us/app/stonebridge-boxing-club/id1615400016
 
 * **Wellyx Staff** – Wellyx Staff App is primarily focused on Saloons and Gym’s staff. Staff can check his schedule, book class and services, manage shifts, mark attendance, view time sheets, manage class attendance, mange attendees against classes and services, get reminder based on class and services bookings and time base events and much more. This app is build using swift and SwiftUI.
 
