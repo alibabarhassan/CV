@@ -29,8 +29,8 @@ Summary
 
 * **Wellyx** – Wellyx connects you to your Gym, Club or Salon. You can book classes, buy treatments, products & memberships. You can check payments made, and view invoices and bookings. This a complete fitness solution app. It involves following additional features
 
-1. Access Control (BLE)
-2. Point of Sale
+**Access Control (BLE)
+**Point of Sale
 3. White Labeling
 4. Video On Demand
 5. Dynamic Theme for targets
