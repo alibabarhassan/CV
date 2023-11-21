@@ -90,7 +90,7 @@ https://apps.apple.com/us/app/wellyx-staff/id1557866095
 * Diploma in PHP , 2013 : PUCIT
 * Bachelor in EE,  2009 - 2013 : Punjab University, Lahore
 
-#### **Hobbies **
+#### **Hobbies**
 
 * Book Reading
 * Music
