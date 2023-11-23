@@ -22,10 +22,11 @@ Summary
 6. **Cloud Services :** Firebase, Firestore
 7. **Source Control :** Git bash, GitHub, SourceTree, Tower
 8. **Project Management Tools :** JIRA, Monday.com
+9. Technical Tasking, Time Estimations
 
 ### **Work Experience / Career History**
 
-### [Sr. Software Engineer at Soft Steer](https://softsteer.com) : December 2020 - Present
+### [Mobile Team Lead at Soft Steer](https://softsteer.com) : December 2020 - Present
 
 * **Wellyx** – Wellyx connects you to your Gym, Club or Salon. You can book classes, buy treatments, products & memberships. You can check payments made, and view invoices and bookings. This a complete fitness solution app. It involves following additional features
 
